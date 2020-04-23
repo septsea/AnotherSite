@@ -8,3 +8,7 @@ However, I can set up a mirror of this website. Nice!
 That is all. Thanks.
 
 Either of the links is OK.
+
+Gitee: https://gitee.com/septsea/AnotherSite
+
+GitHub: https://github.com/septsea/AnotherSite
